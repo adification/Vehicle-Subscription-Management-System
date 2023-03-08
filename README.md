@@ -1,2 +1,2 @@
-# Vehical-Subscription-Management-System
+# Vehicle-Subscription-Management-System
 Made using Python
